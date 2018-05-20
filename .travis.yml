@@ -1,0 +1,12 @@
+# language: node_js
+# node_js: node
+# services:
+# - mongodb
+# deploy:
+#   provider: heroku
+#   api_key:
+#     secure: B+VzldwNhDWpqLHwpnZQ7nA/Jk2NytyrL0RiJqHsasPn1RiixZhHmH9bJHRXPQmr78PNtdhHsLwwrRGl9NLLI/gyT6lGzummMjmdjhI6xL1Av/lce0VsANYZXfnt+tuu1p8OavGm99iNZako+8BYABL+dfercUAU46pIbbk8AakOhrJPoJBGZqkBqD4HlsoEw69rXT/3qLjntkubtPSyXOXxbksdyDX8Dt9YGVTU429b5HQTLW9KKOXGbyflbMPKzW4fUfaKhnGb3upcN7aQ9P25FT3ej2AtHLFLHY21md5fbtmimB8VvthcpSyXq/vEHxhcyreT9cddPg0IW3Vi63uyaOMChKaUEBEZPqFFHangO4muUnN8D2oUuvxNaQZlGYThBqnGXOJVzXkkLpIzyjGYk1z88RJp+WIBR/iNqY0hRdlVNGZJcqctm+VR4nEbxNY1/347/28aACQ7woD5xvCn3EYWyBP7lJgyryMQU954Qd6HySU1b3Mjj++WpfteUdLkU1CtWeqmWV9xtINlvtge0ZR5sQQSGJ1LhdDJy1Ek3sL9gyxDDrOnN3YgqHyk5H6PU/AjSyjEWGZ0vxb8QQ2dZA7jU4m+BzqSepVpswOaoyM7OBHWIvRNBV3bM5dJzuN93hs7ina+PDMZMz+rDANATKPgwTDCBVoEDxJASS4=
+#   app: pacific-beyond-35778
+#   on:
+#     repo: benjaminmodayil/No-Fuss-Fitness
+# env:
